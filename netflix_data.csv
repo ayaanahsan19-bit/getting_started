@@ -1,0 +1,9 @@
+show_id,type,title,director,genre,release_year,duration
+s1,Movie,Action Movie 1,Director A,Action,1995,120
+s2,Movie,Comedy Movie,Director B,Comedy,1998,95
+s3,Movie,Action Movie 2,Director C,Action,1992,85
+s4,TV Show,TV Series,Director D,Drama,1999,45
+s5,Movie,Drama Movie,Director E,Drama,2001,110
+s6,Movie,Action Movie 3,Director F,Action,1994,88
+s7,Movie,Thriller,Director G,Thriller,1997,105
+s8,Movie,Romance,Director H,Romance,1996,92
